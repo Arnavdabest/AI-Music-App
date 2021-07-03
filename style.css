@@ -1,0 +1,17 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 10px 10px 15px blue;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+#songname{
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+}
